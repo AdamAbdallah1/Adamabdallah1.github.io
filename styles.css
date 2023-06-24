@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header img{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+}
+
+header h1{
+    color: white;
+    margin-left: 230px;
+    margin-top: -170px;
+}
+
+header h3{
+    color: white;
+    margin-left: 230px;
+    margin-top: 20px;
+
+}
+
+header h4{
+    color: white;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+header hr{
+    margin-top: 70px;
+}
+
+.skills{
+    color: white;
+}
+
+.links a{
+    color: white;
+}
+
+.contact_me {
+    background-color: white;
+    width: 400px;
+    text-align: center;
+    margin-left: 400px;
+    color: black;
+    height: 300px;
+    border-radius: 20px;
+}
+/* 
+#text {
+    margin-left: 10px;
+} */
+
+.contact_me hr{
+    margin-top: 80px;
+}
+
+footer {
+}
